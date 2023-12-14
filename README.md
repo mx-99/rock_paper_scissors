@@ -1,2 +1,2 @@
-# rock_paper_scissors-
- Rock Paper Scissors game, a project from The Odin Project's curriculum
+# Rock Paper Scissors-
+ Rock Paper Scissors  classic one, in this  player competes against the computer.
