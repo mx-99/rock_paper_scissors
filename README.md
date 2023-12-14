@@ -1,7 +1,4 @@
-# Rock Paper Scissors-
- Rock Paper Scissors  classic one, in this  player competes against the computer.
 # Rock, Paper, Scissors Game
-
 This is a simple implementation of the classic game, Rock, Paper, Scissors, written in JavaScript. The game is played against a computer opponent.
 
 ## How to Play
