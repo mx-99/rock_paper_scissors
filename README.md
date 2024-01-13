@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors Game
-This is a simple implementation of the classic game, Rock, Paper, Scissors, written in JavaScript. The game is played against a computer opponent.
+This is a simple implementation of the classic game, Rock, Paper, Scissors, written in JavaScript.
 
-#[Live preview](https://mx-99.github.io/rock_paper_scissors/)
+# [Live preview](https://mx-99.github.io/rock_paper_scissors/)
 
 ## Game Rules
 - Rock beats Scissors: Scissors beat Paper
